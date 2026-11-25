@@ -31,8 +31,8 @@ The target variable is measured in units of $100,000.
 
 | Regression Model | MAE | R² Score |
 |---|---:|---:|
-| Linear Regression | [Enter result] | [Enter result] |
-| Random Forest Regressor | [Enter result] | [Enter result] |
+| Linear Regression | [0.533200] | [0575788] |
+| Random Forest Regressor | [0.327543] | [0.805123] |
 
 ## Model Evaluation
 Both models were evaluated using Mean Absolute Error and R² Score on the unseen test dataset.
