@@ -43,7 +43,7 @@ Lower MAE and higher R² indicate better predictive performance.
 
 The selected model was used to estimate median house values for three illustrative California housing profiles.
 
-![Custom Property Predictions](custom_predictions.png)
+![Custom Property Predictions](custom_predictions.jpg)
 
 ## Regression Metrics Visualization
 
